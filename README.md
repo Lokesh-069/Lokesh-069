@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Lokesh 👋</h1>
 <p align="center">
-AI & Robotics Explorer 🤖 | Startup Builder 🚀 | Hackathon Enthusiast 🏆
+AI & Robotics Explorer 🤖 | Hackathon Enthusiast 🏆
 </p>
 
 ---
